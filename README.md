@@ -20,7 +20,7 @@ To run the Musical Instruments application:
 
 and visit 'http://localhost:3000/'.
 
-#### Classes
+#### Classes :white_check_mark:
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
